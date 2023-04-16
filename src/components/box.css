@@ -1,0 +1,24 @@
+.box{
+    background-color: aliceblue;
+    border: none;
+    box-shadow: 0 0 5px #888;
+    border-radius: 10%;
+    height:4rem;
+    width:4rem;
+    text-align: center;
+    /* line-height: 5rem; */
+    margin: 0.5%;
+    font-size: 3.3rem;
+    font-weight: bold;
+    font-family: 'Fredoka', sans-serif;;
+}
+
+.x{
+    color: rgb(236, 32, 32);
+}
+.o{
+    color: rgb(7, 206, 246);
+}
+.box:hover{
+    box-shadow: 0 0 15px #888;
+}
